@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TrackWiseBudgetTracker" parent="Theme.Material3.Dark.NoActionBar">
+      <item name="android:windowBackground">@color/black</item>
+    </style>
+
+    <style name="Theme.TrackWiseBudgetTracker" parent="Base.Theme.TrackWiseBudgetTracker" />
+</resources>
